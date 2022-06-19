@@ -1,8 +1,4 @@
 # tkirk70_portfolio.io
 My Portfolio
 
-<object data="resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://onedrive.live.com/embed?cid=BCC48950360D3127&amp;resid=BCC48950360D3127%2122433&amp;authkey=AOcmd5Fwpbig1sc&amp;em=2" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
